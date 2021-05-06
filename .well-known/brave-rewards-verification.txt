@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: htmlisnotaprogramminglanguage.com
+Token: e8969910ec0e2cf38647f23c69962e4b53e85e1f88523d74bf2ad1c0cfcb8b8b
